@@ -1,0 +1,85 @@
+[{
+    "id": 1,
+    "foto": "./imagenes/coca-cola.jpg",
+    "nombre": "Coca Cola",
+    "precio": 299,
+    "cantidad": 1
+},
+{
+    "id": 2,
+    "foto": "./imagenes/pepsi.jpg",
+    "nombre": "Pepsi",
+    "precio": 270,
+    "cantidad": 1 
+},
+{
+    "id": 3,
+    "foto": "./imagenes/fanta.jpg",
+    "nombre": "Fanta",
+    "precio": 250,
+    "cantidad": 1
+},
+{
+    "id": 4,
+    "foto": "./imagenes/budweiser.jpg",
+    "nombre": "Budweiser",
+    "precio": 299,
+    "cantidad": 1
+},
+{
+    "id": 5,
+    "foto": "./imagenes/corona.jpg",
+    "nombre": "Corona",
+    "precio": 310,
+    "cantidad": 1
+},
+{
+    "id": 6,
+    "foto": "./imagenes/heineken.jpg",
+    "nombre": "Heineken",
+    "precio": 300,
+    "cantidad": 1
+},
+{
+    "id": 7,
+    "foto": "./imagenes/jugo-naranja.jpg",
+    "nombre": "Jugo Naranja",
+    "precio": 240,
+    "cantidad": 1
+},
+{
+    "id": 8,
+    "foto": "./imagenes/absolut.jpg",
+    "nombre": "Vodka Absolut",
+    "precio": 899,
+    "cantidad": 1
+},
+{
+    "id": 9,
+    "foto": "./imagenes/ron-havana.jpg",
+    "nombre": "Ron Havana",
+    "precio": 1250,
+    "cantidad": 1
+},
+{
+    "id": 10,
+    "foto": "./imagenes/vino1.jpg",
+    "nombre": "Rutini",
+    "precio": 799,
+    "cantidad": 1
+},
+{
+    "id": 11,
+    "foto": "./imagenes/vino2.jpg",
+    "nombre": "Luigi Bosca",
+    "precio": 2150,
+    "cantidad": 1
+},
+{
+    "id": 12,
+    "foto": "./imagenes/jackdaniels.jpg",
+    "nombre": "Jack Daniels",
+    "precio": 1799,
+    "cantidad": 1
+}
+]
